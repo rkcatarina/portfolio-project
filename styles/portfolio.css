@@ -35,6 +35,10 @@ p {
   line-height: 30px;
 }
 
+.photo-me {
+  max-width: 400px;
+}
+
 .hero {
   background: var(--secondary-color);
   text-align: center;
